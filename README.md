@@ -2,4 +2,4 @@
 
 A repository containing the LaTeX code used to create the latest iteration of my resume.
 
-![resume picture](https://i.imgur.com/Qjc3J1H.png)
+![resume picture](https://i.imgur.com/YwtZUjF.png)
