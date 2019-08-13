@@ -2,18 +2,15 @@
 
 % character encoding
 \RequirePackage[utf8]{inputenc}
-\RequirePackage{geometry}
+\RequirePackage[margin=0.6in]{geometry}
 \RequirePackage{multicol}
+
+\input{glyphtounicode}
+\pdfgentounicode=1
 
 % style
 \moderncvtheme[blue]{banking}
 \renewcommand{\familydefault}{\sfdefault}
-\geometry{
-left=15mm,
-right=15mm,
-top=20mm,
-bottom=5mm,
-}
 
 \AtEndPreamble{
     \hypersetup{pdftitle={Bryan Hitchcock - Resume}}
