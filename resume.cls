@@ -13,5 +13,5 @@
 \renewcommand{\familydefault}{\sfdefault}
 
 \AtEndPreamble{
-    \hypersetup{pdftitle={Bryan Hitchcock - Resume}}
+  \hypersetup{pdftitle={Bryan Hitchcock - Resume}}
 }
